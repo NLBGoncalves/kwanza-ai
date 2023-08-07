@@ -34,7 +34,7 @@ const feedback = [
 
 export const LandingContent = () => {
   return (
-    <section id="equipa" className={`${styles.paddingY} ${styles.flexCenter} flex-col relative `}>
+    <section id="equipa" className={`${styles.paddingY} ${styles.flexCenter} flex-col relative p-5`}>
 
     <div className="w-full flex justify-between items-center md:flex-row flex-col sm:mb-16 mb-6 relative z-[1]">
       <h2 className={styles.heading2}>
